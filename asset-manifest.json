@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3585cfa7.css",
+    "main.js": "/static/js/main.ac19302f.js",
+    "static/js/787.89cbcdbd.chunk.js": "/static/js/787.89cbcdbd.chunk.js",
+    "static/media/mercado-libre-logo.png": "/static/media/mercado-libre-logo.f40f667c737f31b9e7ac.png",
+    "index.html": "/index.html",
+    "main.3585cfa7.css.map": "/static/css/main.3585cfa7.css.map",
+    "main.ac19302f.js.map": "/static/js/main.ac19302f.js.map",
+    "787.89cbcdbd.chunk.js.map": "/static/js/787.89cbcdbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3585cfa7.css",
+    "static/js/main.ac19302f.js"
+  ]
+}
